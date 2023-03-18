@@ -1,0 +1,11 @@
+{
+  "name": "foodwebsite",
+  "version": "1.0.0",
+  "description": "This is my food delievery app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paritosh",
+  "license": "ISC"
+}
